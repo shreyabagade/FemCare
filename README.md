@@ -1,1 +1,1 @@
-FemCare is a Website built for Women's safety which provides them with necessary Helplines, guides them on certain topics such as self-defence and health-related issues and also helps in connecting them with Professionals in case of any emergency. 
+FemCare is a Website built for Women's safety which guides them on certain topics such as self-defence, health-related issues, provides them with necessary helplines and also helps them in connecting with Professionals in case of any emergency. 
