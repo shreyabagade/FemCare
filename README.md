@@ -1,1 +1,1 @@
-# FNF002_Code-A-Thon
+FemCare is a Website built for Women's safety which provides them with necessary Helplines, guides them on certain topics such as self-defence and health-related issues and also helps in connecting them with Professionals in case of any emergency. 
